@@ -1,0 +1,64 @@
+body {
+  background-image: url('./img/fundo.png');
+}
+
+.confrontos{
+  position: absolute;
+  margin-top: 175px;
+  margin-left: 870px;
+}
+
+.container-confronto{
+  position: absolute;
+}
+
+.time-esquerda {
+  position: absolute;
+  margin-top: -60px;
+}
+
+.time-direita {
+  position: absolute;
+  margin-top: -60px;
+  margin-left: 406px;
+}
+
+.background-celula  {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  background: #FDCB50;
+  height: 86px;
+  width: 775px;
+  position: absolute;
+  z-index: -1;
+}
+
+.background-celula-esquerda  {
+	
+}
+
+.background-confronto-1 {
+  margin-top:190px;
+  margin-left:850px
+}
+
+.background-confronto-2  {
+  margin-top: 350px;
+  margin-left:850px
+}
+
+.background-confronto-3  {
+  margin-top: 512px;
+  margin-left:850px
+}
+
+.background-confronto-4  {
+  margin-top: 672px;
+  margin-left:850px
+}
+
+.background-confronto-5  {
+  margin-top: 832px;
+  margin-left:850px
+}
